@@ -73,6 +73,7 @@
 //  i++;
 // } while (i < 8)
 
-for(let i = 0; 1 <= 5; i++) {
+for(let i = 10; i > 0; i--) {
     console.log('hello world', i);
 }
+console.log("Happy new year")
